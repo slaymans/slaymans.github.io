@@ -71,7 +71,7 @@ permalink: /photography/
   </div>
 
   <div class="photo-item">
-    <img src="{{ '/assets/images/portfolio/ivy.png' | relative_url }}" alt="ivy">
+    <img src="{{ '/assets/images/portfolio/ivy.jpg' | relative_url }}" alt="ivy">
   </div>
 </div>
 
