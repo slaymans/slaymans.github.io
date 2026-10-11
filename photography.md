@@ -33,17 +33,16 @@ Welcome to my photography portfolio. A selection of my work is displayed below.
 
 <div class="photo-grid">
 
-  <!-- Try relative paths without a leading slash -->
-  <div class="photo-item">
-    <img src="assets/portfolio/bird2.png" alt="bird">
-  </div>
+<div class="photo-item">
+  <img src="{{ '/assets/portfolio/bird2.png' | relative_url }}" alt="bird">
+</div>
 
-  <div class="photo-item">
-    <img src="assets/portfolio/bleak.png" alt="bleak">
-  </div>
-  
-  <div class="photo-item">
-    <img src="assets/portfolio/beach2.png" alt="beach">
-  </div>
+<div class="photo-item">
+  <img src="{{ '/assets/portfolio/bleak.png' | relative_url }}" alt="bleak">
+</div>
+
+<div class="photo-item">
+  <img src="{{ '/assets/portfolio/beach2.png' | relative_url }}" alt="beach">
+</div>
 
 </div>
