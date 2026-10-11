@@ -42,5 +42,17 @@ permalink: /photography/
     <img src="{{ '/assets/images/portfolio/beach2.png' | relative_url }}" alt="beach">
   </div>
 
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/eternal.png' | relative_url }}" alt="eternal">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/hike.png' | relative_url }}" alt="hike">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/tass.png' | relative_url }}" alt="tazzy">
+  </div>
+
 </div>
 
