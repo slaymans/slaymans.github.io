@@ -31,15 +31,15 @@ permalink: /photography/
 <div class="photo-grid">
 
   <div class="photo-item">
-    <img src="{{ '/assets/portfolio/bird2.png' | relative_url }}" alt="bird">
+    <img src="{{ '/assets/images/portfolio/bird2.png' | relative_url }}" alt="bird">
   </div>
 
   <div class="photo-item">
-    <img src="{{ '/assets/portfolio/bleak.png' | relative_url }}" alt="bleak">
+    <img src="{{ '/assets/images/portfolio/bleak.png' | relative_url }}" alt="bleak">
   </div>
 
   <div class="photo-item">
-    <img src="{{ '/assets/portfolio/beach2.png' | relative_url }}" alt="beach">
+    <img src="{{ '/assets/images/portfolio/beach2.png' | relative_url }}" alt="beach">
   </div>
 
 </div>
