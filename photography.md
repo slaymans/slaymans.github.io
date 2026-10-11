@@ -30,15 +30,13 @@ permalink: /photography/
 
 <div class="photo-grid">
   <div class="photo-item">
-    <img src="/assets/portfolio/bird2.png" alt="bird">
+    <img src="./assets/portfolio/bird2.png" alt="bird">
   </div>
   <div class="photo-item">
-    <img src="/assets/portfolio/bleak.png" alt="bleak">
+    <img src="./assets/portfolio/bleak.png" alt="bleak">
   </div>
   <div class="photo-item">
-    <img src="/assets/portfolio/beach2.png" alt="beach">
+    <img src="./assets/portfolio/beach2.png" alt="beach">
   </div>
-</div>
-
 </div>
 
