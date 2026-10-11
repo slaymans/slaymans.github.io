@@ -29,21 +29,16 @@ permalink: /photography/
 </style>
 
 <div class="photo-grid">
-
-  <!-- Photo 1 -->
   <div class="photo-item">
-    <img src="{{ site.url }}/assets/portfolio/bird2.png" alt="A shot of bird2">
+    <img src="/assets/portfolio/bird2.png" alt="bird">
   </div>
-
-  <!-- Photo 2 -->
   <div class="photo-item">
-    <img src="{{ site.url }}/assets/portfolio/bleak.png" alt="A shot of bleak">
+    <img src="/assets/portfolio/bleak.png" alt="bleak">
   </div>
-  
-  <!-- Photo 3 -->
   <div class="photo-item">
-    <img src="{{ site.url }}/assets/portfolio/beach2.png" alt="A shot of beach2">
+    <img src="/assets/portfolio/beach2.png" alt="beach">
   </div>
+</div>
 
 </div>
 
