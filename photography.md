@@ -54,5 +54,24 @@ permalink: /photography/
     <img src="{{ '/assets/images/portfolio/tass.png' | relative_url }}" alt="tazzy">
   </div>
 
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/building.png' | relative_url }}" alt="building">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/house.png' | relative_url }}" alt="house">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/tree.png' | relative_url }}" alt="tree">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/pole.png' | relative_url }}" alt="pole">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/portfolio/ivy.png' | relative_url }}" alt="ivy">
+  </div>
 </div>
 
