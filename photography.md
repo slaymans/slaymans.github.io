@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Photography
 permalink: /photography/
 ---
 
@@ -29,20 +28,19 @@ permalink: /photography/
   }
 </style>
 
-Welcome to my photography portfolio. A selection of my work is displayed below.
-
 <div class="photo-grid">
 
-<div class="photo-item">
-  <img src="{{ '/assets/portfolio/bird2.png' | relative_url }}" alt="bird">
+  <div class="photo-item">
+    <img src="{{ '/assets/portfolio/bird2.png' | relative_url }}" alt="bird">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/portfolio/bleak.png' | relative_url }}" alt="bleak">
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/portfolio/beach2.png' | relative_url }}" alt="beach">
+  </div>
+
 </div>
 
-<div class="photo-item">
-  <img src="{{ '/assets/portfolio/bleak.png' | relative_url }}" alt="bleak">
-</div>
-
-<div class="photo-item">
-  <img src="{{ '/assets/portfolio/beach2.png' | relative_url }}" alt="beach">
-</div>
-
-</div>
