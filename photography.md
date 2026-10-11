@@ -31,12 +31,12 @@ permalink: /photography/
 
 <div class="photo-grid">
   <div class="photo-item">
-    <img src="{{ site.baseurl }}/assets/portfolio/beach2.png" alt="Description of photo 1">
+    <img src="{{ site.baseurl }}/assets/portfolio/beach2" alt="Description of photo 1">
   </div>
   <div class="photo-item">
-    <img src="{{ site.baseurl }}/assets/portfolio/bleak.png" alt="Description of photo 2">
+    <img src="{{ site.baseurl }}/assets/portfolio/bleak" alt="Description of photo 2">
   </div>
   <div class="photo-item">
-    <img src="{{ site.baseurl }}/assets/portfolio/bird2.png" alt="Description of photo 3">
+    <img src="{{ site.baseurl }}/assets/portfolio/bird2" alt="Description of photo 3">
   </div>
 </div>
