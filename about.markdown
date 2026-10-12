@@ -1,6 +1,5 @@
 ---
 layout: page
-title: LST RVR
 permalink: /about/
 ---
 
