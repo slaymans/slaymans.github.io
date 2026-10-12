@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<style>
+  .poem-body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }
+  .poem-back {
+    display: inline-block;
+    margin-top: 32px;
+  }
+    .page-title, h1 { font-family: 'Times New Roman', Times, serif; }
+</style>
+
+<div class="poem-body">
+  {{ content }}
+</div>
+
+<a class="poem-back" href="{{ '/writings/' | relative_url }}">← Back to Writings</a>
