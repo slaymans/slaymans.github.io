@@ -34,6 +34,10 @@ plugins:
 lightavatar: /assets/images/logo-light.png
 darkavatar: /assets/images/logo-dark.png
 
+collections:
+  poems:
+    output: true
+    permalink: /writings/:name/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
